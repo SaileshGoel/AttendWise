@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens at the local URL printed by Streamlit, usually http://localhost:8501.
+The app opens at the local URL printed by Streamlit, usually https://attendwise-e68fjh7srfmvaejvo3jit6.streamlit.app/
 
 
 
