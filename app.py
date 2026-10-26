@@ -96,6 +96,7 @@ def misses_allowed(attended, conducted, target):
 
 
 st.sidebar.title("🎓 AttendWise")
+st.sidebar.caption("SAILESH")
 st.sidebar.caption("Your student-life command center")
 page = st.sidebar.radio("Navigate", ["Overview", "Attendance", "Deadlines", "About"])
 st.sidebar.divider()
